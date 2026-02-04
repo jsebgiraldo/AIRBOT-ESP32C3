@@ -5,8 +5,7 @@ Firmware para ESP32-C3 con soporte de actualización OTA por WiFi.
 ## � Documentación
 
 - **[🚀 Resumen del Proyecto](PROJECT_SUMMARY.md)** - Visión general completa y estado del proyecto
-- **[⚡ Guía Rápida de Flashing](FLASHING_GUIDE.md)** - Instrucciones detalladas para flash USB y OTA WiFi
-- **[🤖 Automatización MCP](MCP_AUTOMATION.md)** - Scripts y automatización con MCPs
+- **[⚡ Guía Rápida de Flashing](FLASHING_GUIDE.md)** - Instrucciones detalladas para flash USB y OTA WiFi- **[📋 Referencia Rápida](QUICK_REFERENCE.md)** - Comandos más usados y atajos- **[🤖 Automatización MCP](MCP_AUTOMATION.md)** - Scripts y automatización con MCPs
 - **[📝 README](README.md)** - Este archivo (documentación técnica completa)
 
 ## �🚀 Características
