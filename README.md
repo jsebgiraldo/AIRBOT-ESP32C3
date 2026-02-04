@@ -2,7 +2,12 @@
 
 Firmware para ESP32-C3 con soporte de actualización OTA por WiFi.
 
-## 🚀 Características
+## � Documentación
+
+- **[Guía Rápida de Flashing](FLASHING_GUIDE.md)** - Instrucciones detalladas para flash USB y OTA WiFi
+- **[README](README.md)** - Este archivo (documentación completa)
+
+## �🚀 Características
 
 - **ESP32-C3**: Optimizado para ESP32-C3
 - **OTA WiFi**: Actualización de firmware inalámbrica
